@@ -11,6 +11,7 @@ public class My15Class {
 
 /* პასუხი:
 Blue
- */
+22წთ
+ */ 
 
 
