@@ -12,13 +12,24 @@ public class My17Class {
 
         int i =0;
 
-        while (i< colors.length) {
+       /* while (i< colors.length) {
             System.out.println(colors[i]);
-            i++;
+            i++;*/
 
 
+       
+        } 
+ინდექსების გარეშე:
+    
+         String[] colors = {"Red", "Green", "Blue", "Orange"};
+        for (String color : colors) {
+            System.out.println(color); // 32 წღ
         }
     }
+    
+
+
+    
 
     /*პასუხი:
     Red
